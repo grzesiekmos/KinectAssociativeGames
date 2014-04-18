@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectMiniGamesXbox", "KinectMiniGamesXbox\KinectMiniGamesXbox\KinectMiniGamesXbox.csproj", "{8C49BDEC-9CCF-454A-87EB-417F162E0C6E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "KinectMiniGamesXboxContent", "KinectMiniGamesXbox\KinectMiniGamesXboxContent\KinectMiniGamesXboxContent.contentproj", "{6DE28594-95D6-4252-8388-C2FE27E40CE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C49BDEC-9CCF-454A-87EB-417F162E0C6E}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{8C49BDEC-9CCF-454A-87EB-417F162E0C6E}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{8C49BDEC-9CCF-454A-87EB-417F162E0C6E}.Debug|Xbox 360.Deploy.0 = Debug|Xbox 360
+		{8C49BDEC-9CCF-454A-87EB-417F162E0C6E}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{8C49BDEC-9CCF-454A-87EB-417F162E0C6E}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{8C49BDEC-9CCF-454A-87EB-417F162E0C6E}.Release|Xbox 360.Deploy.0 = Release|Xbox 360
+		{6DE28594-95D6-4252-8388-C2FE27E40CE9}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{6DE28594-95D6-4252-8388-C2FE27E40CE9}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

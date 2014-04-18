@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectMiniGamesWindows", "KinectMiniGamesWindows\KinectMiniGamesWindows\KinectMiniGamesWindows.csproj", "{E191DA5C-4350-43B1-9849-3405D0B2DCDB}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "KinectMiniGamesWindowsContent", "KinectMiniGamesWindows\KinectMiniGamesWindowsContent\KinectMiniGamesWindowsContent.contentproj", "{21AACE7D-6955-4A25-A07C-03D16E9E594F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E191DA5C-4350-43B1-9849-3405D0B2DCDB}.Debug|x86.ActiveCfg = Debug|x86
+		{E191DA5C-4350-43B1-9849-3405D0B2DCDB}.Debug|x86.Build.0 = Debug|x86
+		{E191DA5C-4350-43B1-9849-3405D0B2DCDB}.Release|x86.ActiveCfg = Release|x86
+		{E191DA5C-4350-43B1-9849-3405D0B2DCDB}.Release|x86.Build.0 = Release|x86
+		{21AACE7D-6955-4A25-A07C-03D16E9E594F}.Debug|x86.ActiveCfg = Debug|x86
+		{21AACE7D-6955-4A25-A07C-03D16E9E594F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
